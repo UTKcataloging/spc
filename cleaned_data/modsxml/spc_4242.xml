@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+      version="3.5">
+   <identifier type="local">spc_4242</identifier>
+   <identifier type="local">0012_000067_000586_0001</identifier>
+   <name>
+      <namePart>Knoxville Engraving Co.</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <titleInfo>
+      <title>Morgan Hall (UT Agricultural Campus)</title>
+   </titleInfo>
+   <typeOfResource>still image</typeOfResource>
+   <originInfo>
+      <dateCreated>1924 - 1930</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes" point="start">1924</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes" point="end">1930</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <abstract>Morgan Hall was constructed on the University of Tennessee's Agricultural Campus in 1921. Originally called the Agricultural Hall, it was later renamed in honor of Harcourt A. Morgan, who arranged for the State of Tennessee to provide the money needed for its construction. Although space needs have changed many times since the building's construction, care has been taken to maintain the its architectural and historical integrity and it is still in use today.</abstract>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">zxx</languageTerm>
+   </language>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <shelfLocator>Box 2, Folder 6</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <subject>
+      <topic>Knoxville (Tenn.)--Buildings, structures, etc.</topic>
+   </subject>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003889">
+         <namePart>University of Tennessee, Knoxville</namePart>
+      </name>
+   </subject>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <title>Special Collections Online</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host" displayLabel="Collection">
+      <titleInfo>
+         <title>Photographs of Tennessee Cities Collection</title>
+      </titleInfo>
+      <identifier type="local">MS.0951</identifier>
+   </relatedItem>
+   <accessCondition type="use and reproduction">The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+   <recordInfo>
+      <recordIdentifier>record_spc_4242</recordIdentifier>
+      <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+   </recordInfo>
+</mods>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+      version="3.5">
+   <identifier type="local">spc_3961</identifier>
+   <identifier type="local">0012_000067_000305_0001</identifier>
+   <name>
+      <namePart>unknown</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <titleInfo>
+      <title>Henson Hall</title>
+   </titleInfo>
+   <typeOfResource>still image</typeOfResource>
+   <originInfo>
+      <dateCreated>1930 - 1963</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes" point="start">1930</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes" point="end">1963</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <abstract>When Mrs. Martha C. Henson died in 1927, she left the University of Tennessee $200,000 to be used for the betterment of the school's female students. The money was used to build a women's dormitory, which opened in 1930 and was named Henson Hall in her honor. The building housed Air Cadet Training Program students from 1943 until June of 1944, but returned to housing women as soon as the program ended. It became an academic building in the late 1970s, and continues to serve in this capacity today.</abstract>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">zxx</languageTerm>
+   </language>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <shelfLocator>Box 2, Folder 2</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <title>Special Collections Online</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host" displayLabel="Collection">
+      <titleInfo>
+         <title>Photographs of Tennessee Cities Collection</title>
+      </titleInfo>
+      <identifier type="local">MS.0951</identifier>
+   </relatedItem>
+   <accessCondition type="use and reproduction">The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+   <recordInfo>
+      <recordIdentifier>record_spc_3961</recordIdentifier>
+      <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+   </recordInfo>
+</mods>

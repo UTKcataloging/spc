@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+      version="3.5">
+   <identifier type="local">spc_4588</identifier>
+   <identifier type="local">0012_000500_000200_0001</identifier>
+   <name>
+      <namePart>unknown</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <titleInfo>
+      <title>Hubert R. Knickerbocker</title>
+   </titleInfo>
+   <typeOfResource>still image</typeOfResource>
+   <originInfo>
+      <dateCreated>1942 - 1946</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes" point="start">1942</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes" point="end">1946</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <abstract>This image most likely shows Hubert Renfro Knickerbocker (1898-1949), who was a prominent foreign correspondent for such newspapers as the New York Evening Post and the Philadelphia Public Ledger. He covered such conflicts as the Italo-Abyssinian War (1935-1936), the Spanish Civil War (1936-1937), and the Sino-Japanese War (1937) before working in Europe during World War II. He also taught journalism at Southern Methodist University (1922-1923) and wrote a number of books.</abstract>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">zxx</languageTerm>
+   </language>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <shelfLocator>Box 20, Folder 10</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85148431">
+      <topic>World War, 1939-1945--Journalists</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85050493">
+      <topic>Foreign correspondents</topic>
+   </subject>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no96040631">
+         <namePart>Whitaker, John T. (John Thompson), 1906-</namePart>
+      </name>
+   </subject>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <title>Special Collections Online</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host" displayLabel="Collection">
+      <titleInfo>
+         <title>World War II Collection</title>
+      </titleInfo>
+      <identifier type="local">MS.1608</identifier>
+   </relatedItem>
+   <accessCondition type="use and reproduction">The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+   <recordInfo>
+      <recordIdentifier>record_spc_4588</recordIdentifier>
+      <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+   </recordInfo>
+</mods>

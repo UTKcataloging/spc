@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+      version="3.5">
+   <identifier type="local">spc_4229</identifier>
+   <identifier type="local">0012_000067_000573_0001</identifier>
+   <titleInfo>
+      <title>Masonic Temple</title>
+   </titleInfo>
+   <typeOfResource>still image</typeOfResource>
+   <originInfo>
+      <dateCreated>1924 - 1930</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes" point="start">1924</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes" point="end">1930</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <abstract>Knoxville's Masonic Temple was originally Charles McClung McGhee's private home. The structure was designed by architect Joseph F. Baumann in 1872 and altered to serve as the Masonic Temple after McGhee's death in 1907. The interior of the home was restored in the early 1990s.</abstract>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">zxx</languageTerm>
+   </language>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <shelfLocator>Box 2, Folder 6</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <subject>
+      <topic>Knoxville (Tenn.)--Buildings, structures, etc.</topic>
+   </subject>
+   <subject>
+      <name>
+         <namePart>Knoxville Engraving Co.</namePart>
+      </name>
+   </subject>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <title>Special Collections Online</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host" displayLabel="Collection">
+      <titleInfo>
+         <title>Photographs of Tennessee Cities Collection</title>
+      </titleInfo>
+      <identifier type="local">MS.0951</identifier>
+   </relatedItem>
+   <accessCondition type="use and reproduction">The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+   <recordInfo>
+      <recordIdentifier>record_spc_4229</recordIdentifier>
+      <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+   </recordInfo>
+</mods>

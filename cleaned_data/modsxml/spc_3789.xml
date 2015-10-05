@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+      version="3.5">
+   <identifier type="local">spc_3789</identifier>
+   <identifier type="local">0012_000107_000210_0001</identifier>
+   <titleInfo>
+      <title>Rudolph Valentino in "The Eagle"</title>
+   </titleInfo>
+   <typeOfResource>still image</typeOfResource>
+   <originInfo>
+      <dateCreated>1925</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1925</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <abstract>Based on a Pushkin novel, "The Eagle" stars Rudolph Valentino as a Russian cossack named Vladimir Dubrouvsky. He is one of Catherine the Great's particular favorites, but he will not be kept as a lover and spurns her advances. When Kyrilla Troekouroff steals his lands, he creates a secret identity, "The Black Eagle," and becomes a masked avenger. Although bent on revenge, he falls in love with Troekouroff's daughter, Mascha (Vilma Banky). Mascha, in turn, worships the Eagle but disdains his unmasked identity, her foppish French tutor Monsieur Le Blanc. Dubrouvsky's love for Masha eventually counteracts his desire for revenge against her father, and the couple flee Troekouroff's estate. Although captured by the Czarina's men, Catherine rescinds her orders to execute the Eagle and the pair escape to Paris.</abstract>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">zxx</languageTerm>
+   </language>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <shelfLocator>Box 6A, Folder HA(4)</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh2008111666">
+      <topic>Silent films--United States--History and criticism</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh87006130">
+      <topic>Motion picture producers and directors--United States</topic>
+   </subject>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n85151871">
+         <namePart>Brown, Clarence, 1890-1987</namePart>
+      </name>
+   </subject>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <title>Special Collections Online</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host" displayLabel="Collection">
+      <titleInfo>
+         <title>Clarence Brown Collection, 1920-1970</title>
+      </titleInfo>
+      <identifier type="local">MS.0702</identifier>
+   </relatedItem>
+   <accessCondition type="use and reproduction">The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+   <recordInfo>
+      <recordIdentifier>record_spc_3789</recordIdentifier>
+      <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+   </recordInfo>
+</mods>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+      version="3.5">
+   <identifier type="local">spc_4652</identifier>
+   <identifier type="local">0012_000177_000209_0001</identifier>
+   <name>
+      <namePart>unknown</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <titleInfo>
+      <title>Corporal Thomas J. Hawley Jr.</title>
+   </titleInfo>
+   <typeOfResource>still image</typeOfResource>
+   <originInfo>
+      <dateCreated>1940 - 1941</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes" point="start">1940</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes" point="end">1941</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <abstract>The original caption for this image reads "Corp. Hawley. Co. K 158th Inf. 45th Div. Fort Sill Okla. Sept 1940-March 1941." The 158th Infantry Regiment began as the First Arizona Volunteer Infantry on September 2, 1865. It was drafted into Federal service during World War I as part of the 40th Division and reassigned to the 45th Division during postwar reorganizations. When a National Emergency was declared on September 16, 1940, the 158th joined the 45th for training at Fort Sill, Oklahoma and Fort Barkley, Texas. They were detached from the 45th in December of 1941 and sent to the Canal Zone for training in jungle warfare before being assigned to the Pacific Theater in early 1943. The unit was scheduled to spearhead the final invasion of Japan, which was subsequently rendered unnecessary by the atomic bomb. The 158th was deactivated and sent home in January of 1946.</abstract>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">zxx</languageTerm>
+   </language>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <shelfLocator>Box 7, Folder 27</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85148273">
+      <topic>World War, 1939-1945</topic>
+   </subject>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n87943696">
+         <namePart>United States. Army. Infantry Regiment, 158th</namePart>
+      </name>
+   </subject>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <title>Special Collections Online</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host" displayLabel="Collection">
+      <titleInfo>
+         <title>World War II Collection</title>
+      </titleInfo>
+      <identifier type="local">MS.2012</identifier>
+   </relatedItem>
+   <accessCondition type="use and reproduction">The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+   <recordInfo>
+      <recordIdentifier>record_spc_4652</recordIdentifier>
+      <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+   </recordInfo>
+</mods>

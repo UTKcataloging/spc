@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+      version="3.5">
+   <identifier type="local">spc_4085</identifier>
+   <identifier type="local">0012_000067_000429_0001</identifier>
+   <titleInfo>
+      <title>Aerial View of Knoxville</title>
+   </titleInfo>
+   <typeOfResource>still image</typeOfResource>
+   <originInfo>
+      <place supplied="yes">
+         <placeTerm type="text">500 West Church Avenue, Knoxville, TN 37902</placeTerm>
+      </place>
+      <publisher>East Tennessee Historical Society</publisher>
+      <dateCreated>1907</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1907</dateCreated>
+      <dateIssued>1991</dateIssued>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <abstract>Aerial view of Knoxville published by Raphael Tuck &amp; Sons, "art publishers to their majesties the King and Queen." Visible are the third Gay Street Bridge, the Tennessee River, the Courthouse, and the First Baptist Church's spire.</abstract>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">zxx</languageTerm>
+   </language>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <shelfLocator>Box 2, Folder 6</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <subject>
+      <topic>Knoxville (Tenn.)--Aerial Views</topic>
+   </subject>
+   <subject>
+      <topic>Knoxville (Tenn.)--Buildings, structures, etc.</topic>
+   </subject>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n97107985">
+         <namePart>Raphael Tuck &amp; Sons</namePart>
+      </name>
+   </subject>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <title>Special Collections Online</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host" displayLabel="Collection">
+      <titleInfo>
+         <title>Photographs of Tennessee Cities Collection</title>
+      </titleInfo>
+      <identifier type="local">MS.0951</identifier>
+   </relatedItem>
+   <accessCondition type="use and reproduction">The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+   <recordInfo>
+      <recordIdentifier>record_spc_4085</recordIdentifier>
+      <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+   </recordInfo>
+</mods>

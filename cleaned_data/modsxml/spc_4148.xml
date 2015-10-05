@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+      version="3.5">
+   <identifier type="local">spc_4148</identifier>
+   <identifier type="local">0012_000067_000492_0001</identifier>
+   <titleInfo>
+      <title>Fort James White</title>
+   </titleInfo>
+   <typeOfResource>still image</typeOfResource>
+   <originInfo>
+      <dateCreated>1906 - 1970</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes" point="start">1906</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes" point="end">1970</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <abstract>General James White built this house, the first in Knoxville, in 1786. It was originally located at one corner of a rectangular lot with smaller houses in the other three corners, a common frontier design intended to protect against Indians. After the White family established a farm away from this location, the structure was repurposed as the kitchen wing of the Kennedy residence on State Street. In 1906, Isaiah Ford purchased the building and moved it to Woodlawn Pike, where he used it as a private residence. It changed hands again in 1970, when the City Association of Women's Clubs purchased the home and moved it back to central Knoxville. It currently stands near the Knoxville Coliseum and is one of the most visited historical sites in the city.</abstract>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">zxx</languageTerm>
+   </language>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <shelfLocator>Box 2, Folder 6</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <subject>
+      <topic>Knoxville (Tenn.)--Buildings, structures, etc.</topic>
+   </subject>
+   <subject>
+      <name>
+         <namePart>Lewis &amp; Adcock</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name>
+         <namePart>White, James, 1747-1821</namePart>
+      </name>
+   </subject>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <title>Special Collections Online</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host" displayLabel="Collection">
+      <titleInfo>
+         <title>Photographs of Tennessee Cities Collection</title>
+      </titleInfo>
+      <identifier type="local">MS.0951</identifier>
+   </relatedItem>
+   <accessCondition type="use and reproduction">The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+   <recordInfo>
+      <recordIdentifier>record_spc_4148</recordIdentifier>
+      <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+   </recordInfo>
+</mods>

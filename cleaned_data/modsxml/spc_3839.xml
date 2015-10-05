@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+      version="3.5">
+   <identifier type="local">spc_3839</identifier>
+   <identifier type="local">0012_000107_000261_0001</identifier>
+   <titleInfo>
+      <title>Lobby Card for "The Rains Came"</title>
+   </titleInfo>
+   <typeOfResource>still image</typeOfResource>
+   <originInfo>
+      <dateCreated>1939</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1939</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <abstract>Set in India in 1938, "The Rains Came" stars Myrna Loy as Lady Edwina Esketh, the privileged wife of British aristocrat Lord Albert Esketh (Nigel Bruce). While visiting the picturesque town of Ranchipur, Lady Esketh meets a former lover, Tom Ransome (George Brent), who is now being pursued by sheltered Fern Simon (Brenda Joyce). Soon after this reunion, Lady Esketh becomes fascinated by Major Rama Safti (Tyrone Power) and pursues him even though Ransome, his closest friend, warns her that he is completely devoted to his medical practice. Before anything can be decided, the city is struck by heavy rains, earthquakes, flooding, polluted water, and finally plague. These disasters force all of the characters to consider carefully what is truly important to them.</abstract>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">zxx</languageTerm>
+   </language>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <shelfLocator>Box 16, Folder F</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85088112">
+      <topic>Motion pictures--United States</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh87006130">
+      <topic>Motion picture producers and directors--United States</topic>
+   </subject>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n85151871">
+         <namePart>Brown, Clarence, 1890-1987</namePart>
+      </name>
+   </subject>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <title>Special Collections Online</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host" displayLabel="Collection">
+      <titleInfo>
+         <title>Clarence Brown Collection, 1920-1970</title>
+      </titleInfo>
+      <identifier type="local">MS.0702</identifier>
+   </relatedItem>
+   <accessCondition type="use and reproduction">The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+   <recordInfo>
+      <recordIdentifier>record_spc_3839</recordIdentifier>
+      <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+   </recordInfo>
+</mods>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+      version="3.5">
+   <identifier type="local">spc_3781</identifier>
+   <identifier type="local">0012_000107_000202_0001</identifier>
+   <name>
+      <namePart>unknown</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <titleInfo>
+      <title>Clarence Brown on the Set of "The Signal Tower"</title>
+   </titleInfo>
+   <typeOfResource>still image</typeOfResource>
+   <originInfo>
+      <dateCreated>1924</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1924</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <abstract>"The Signal Tower" was one of the earliest movies that Clarence Brown directed. It tells the story of a railroad signal man named David Tolliver (Rockcliffe Fellowes), his wife Sally (Virginia Vallie), and their child Sonny (Frankie Darrow). The family lives near the signal tower where Tolliver works. When the relief signal man retires, his replacement Joe Standish (Wallace Beery) boards with the Tollivers. Standish is evicted after attempting to seduce Sally and arrives at work drunk and late the following night. As a result, Tolliver works an extra shift and Standish attempts to force himself on Sally while he is distracted. Sonny runs to his father for help, but Tolliver is busy preventing a freight train that has broken in half from colliding with the oncoming Limited. Sally takes matters into her own hands, and aims what she believes to be an unloaded gun at Standish. It discharges, however, hitting Standish and so dissuading him. Thus, both the train and Sally's honor are preserved.</abstract>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">zxx</languageTerm>
+   </language>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <shelfLocator>Box 6, Folder H2</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh2008111666">
+      <topic>Silent films--United States--History and criticism</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh87006130">
+      <topic>Motion picture producers and directors--United States</topic>
+   </subject>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n85151871">
+         <namePart>Brown, Clarence, 1890-1987</namePart>
+      </name>
+   </subject>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <title>Special Collections Online</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host" displayLabel="Collection">
+      <titleInfo>
+         <title>Clarence Brown Collection, 1920-1970</title>
+      </titleInfo>
+      <identifier type="local">MS.0702</identifier>
+   </relatedItem>
+   <accessCondition type="use and reproduction">The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+   <recordInfo>
+      <recordIdentifier>record_spc_3781</recordIdentifier>
+      <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+   </recordInfo>
+</mods>

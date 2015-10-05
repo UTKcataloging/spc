@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+      version="3.5">
+   <identifier type="local">spc_4705</identifier>
+   <identifier type="local">0012_000064_000203_0001</identifier>
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/n88156294">
+      <namePart>King, Charles Bird, 1785-1862</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <titleInfo>
+      <title>Paddy-Carr, a Creek Interpreter</title>
+   </titleInfo>
+   <typeOfResource>still image</typeOfResource>
+   <originInfo>
+      <dateCreated>1826</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1826</dateCreated>
+      <dateIssued>1868</dateIssued>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <abstract>As his name implies, Paddy Carr was the son of an Irish father and a Creek mother. He was born near Fort Mitchell, Alabama, and reared in the family of Indian Agent Colonel Crowell. It was in this household that he learned to speak the Creek language. Carr served as an interpreter in the 1826 Creek delegation sent to Washington to argue against the Treaty of Indian Springs, where he gained a reputation as a brilliant translator. He established himself as a trader after his return from Washington and soon amassed considerable property. He later served as a guide and interpreter for the US Army in Alabama and Florida during the Creek War. This print was taken from a portrait painted by Charles Bird King in 1826. The original has since been destroyed by fire.</abstract>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">zxx</languageTerm>
+   </language>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <shelfLocator>Local Call: Creek pa</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh2009122279">
+      <topic>Creek Indians--History</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh2006006142">
+      <topic>Creek Indians--Mixed descent</topic>
+   </subject>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/nr92002125">
+         <namePart>Greenough, Frederick W.</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name>
+         <namePart>Rice, Rutter and Company (Philadelphia, Penn.)</namePart>
+      </name>
+   </subject>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <title>Special Collections Online</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host" displayLabel="Collection">
+      <titleInfo>
+         <title>Prints Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <accessCondition type="use and reproduction">The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+   <recordInfo>
+      <recordIdentifier>record_spc_4705</recordIdentifier>
+      <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+   </recordInfo>
+</mods>

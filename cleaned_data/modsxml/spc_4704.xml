@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+      version="3.5">
+   <identifier type="local">spc_4704</identifier>
+   <identifier type="local">0012_000064_000202_0001</identifier>
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/n88156294">
+      <namePart>King, Charles Bird, 1785-1862</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <titleInfo>
+      <title>Opothle Yoholo, a Creek Chief</title>
+   </titleInfo>
+   <typeOfResource>still image</typeOfResource>
+   <originInfo>
+      <dateCreated>1826</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1826</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <abstract>Opothle Yoholo served as the principal councilor (sometimes called the speaker of the council) in the Creek towns on the Tallapoosa and Coosa rivers in Alabama. He took part in the 1826 Creek delegation to Washington, DC to argue against the Treaty of Indian Springs. Although he remained steadfast in his opposition to the US Government's plans to relocate the Creek, he led a group of Creek warriors against the Seminole during the Creek War of 1836 and later removed to Arkansas voluntarily. This print was taken from a portrait painted by Charles Bird King in 1826. The original has since been destroyed by fire.</abstract>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">zxx</languageTerm>
+   </language>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <shelfLocator>Local Call: Creek op</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh2009122279">
+      <topic>Creek Indians--History</topic>
+   </subject>
+   <subject>
+      <topic>Creek Indians--Kings And Rulers</topic>
+   </subject>
+   <subject>
+      <name>
+         <namePart>Biddle, E. C.</namePart>
+      </name>
+   </subject>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <title>Special Collections Online</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host" displayLabel="Collection">
+      <titleInfo>
+         <title>Prints Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <accessCondition type="use and reproduction">The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+   <recordInfo>
+      <recordIdentifier>record_spc_4704</recordIdentifier>
+      <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+   </recordInfo>
+</mods>

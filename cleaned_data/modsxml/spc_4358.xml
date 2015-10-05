@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+      version="3.5">
+   <identifier type="local">spc_4358</identifier>
+   <identifier type="local">0012_000409_000200_0001</identifier>
+   <name>
+      <namePart>unknown</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <titleInfo>
+      <title>Portrait of Don Whitehead</title>
+   </titleInfo>
+   <typeOfResource>still image</typeOfResource>
+   <originInfo>
+      <dateCreated>1937</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1937</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <abstract>Donald Ford Whitehead was born to Harry Ford and Elizabeth (Bond) Whitehead on April 8, 1908 in Inman, Virginia. He was raised in Kentucky and earned his degree in journalism from the University of Kentucky in 1928. After graduating, he worked for several newspapers in Kentucky and Tennessee before joining the Associated Press in 1935. He worked as a feature writer in New York for several years and eventually became a foreign correspondent. In this role, he reported on World War II (including the North Africa campaign), postwar atomic testing, and the Korean War. He went on to win two Pulitzer Prizes (1951 and 1953) and write several books, including the bestseller The FBI Story (1956). He also worked for both the New York Herald Tribune and the Knoxville News-Sentinel before retiring in 1978. He married Marie Patterson (1906-1979) on 20 December 1928 and the couple had one daughter, Ruth. Whitehead died in Knoxville, Tennessee on January 12, 1981 of lung cancer at age 72.</abstract>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">zxx</languageTerm>
+   </language>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <shelfLocator>Box 8, Folder 1</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80075894">
+         <namePart>Associated Press</namePart>
+      </name>
+   </subject>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <title>Special Collections Online</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host" displayLabel="Collection">
+      <titleInfo>
+         <title>Don Whitehead Journalistic Collection</title>
+      </titleInfo>
+      <identifier type="local">MS.1020</identifier>
+   </relatedItem>
+   <accessCondition type="use and reproduction">The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+   <recordInfo>
+      <recordIdentifier>record_spc_4358</recordIdentifier>
+      <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+   </recordInfo>
+</mods>

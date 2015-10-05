@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+      version="3.5">
+   <identifier type="local">spc_4642</identifier>
+   <identifier type="local">0012_000553_000249_0001</identifier>
+   <name>
+      <namePart>unknown</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <titleInfo>
+      <title>Clarence Brown in Childhood</title>
+   </titleInfo>
+   <typeOfResource>still image</typeOfResource>
+   <originInfo>
+      <dateCreated>1894 - 1900</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes" point="start">1894</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes" point="end">1900</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <abstract>Clarence Brown was born on May 10, 1890, in Clinton, Massachusetts. He moved with his family to Knoxville, Tennessee as a child and graduated from Knoxville High School in 1905. Brown received a double degree in mechanical and electrical engineering from the University of Tennessee in 1910 and then began a career selling automobiles in Alabama. Fascinated with movies, he moved to New Jersey where he studied with French director Maurice Tourneur at Peerless Studios. There, the pair directed "The Last of the Mohicans" (1920). Brown directed or produced more than fifty widely-acclaimed full length motion pictures and worked with many of the most famous performers in the film industry, including Joan Crawford and Clark Gable in "Chained" (1934), Spencer Tracy in "Edison the Man" (1940), Elizabeth Taylor in "National Velvet" (1945), and Gregory Peck in "The Yearling" (1947). At the time of his retirement in 1952, Brown had received six Academy Award nominations for Best Director and won eight Oscars for his films. When he died in 1987, Brown left $12 million to the University of Tennessee. When added to the $1 million donated during his lifetime, the sum made him the largest donor in the university's history.</abstract>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">zxx</languageTerm>
+   </language>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <shelfLocator>Box 3, Folder 11</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n85151871">
+         <namePart>Brown, Clarence, 1890-1987</namePart>
+      </name>
+   </subject>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <title>Special Collections Online</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host" displayLabel="Collection">
+      <titleInfo>
+         <title>Clarence Brown Papers</title>
+      </titleInfo>
+      <identifier type="local">MS.2010</identifier>
+   </relatedItem>
+   <accessCondition type="use and reproduction">The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+   <recordInfo>
+      <recordIdentifier>record_spc_4642</recordIdentifier>
+      <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+   </recordInfo>
+</mods>

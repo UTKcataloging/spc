@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+      version="3.5">
+   <identifier type="local">spc_4703</identifier>
+   <identifier type="local">0012_000064_000201_0001</identifier>
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/n88156294">
+      <namePart>King, Charles Bird, 1785-1862</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <titleInfo>
+      <title>Me-Na-Wa, a Creek Warrior</title>
+   </titleInfo>
+   <typeOfResource>still image</typeOfResource>
+   <originInfo>
+      <dateCreated>1826</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1826</dateCreated>
+      <dateIssued>1868</dateIssued>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <abstract>Menawa (meaning The Great Warrior) was chief of the Oakfuskee Creek towns lying on the Tallapoosa River in Alabama. He was widely known as a talented and brutal warrior. A determined opponent of both Creek Chief William MacIntosh and MacIntosh's 1825 Treaty of Indian Springs (which ceded all Creek land in Georgia to the Federal Government), Menawa took part in the 1826 delegation to Washington, DC designed to repudiate the treaty. Although the group failed to have the treaty revoked, Menawa was instrumental in having a provision inserted allowing the Creek to obtain legal patents for their land. He, along with Opothle Yoholo, later fought alongside American troops against the Seminole in Alabama. This print was taken from a portrait painted by Charles Bird King in 1826, when Menawa was said to be about sixty years old. The original has since been destroyed by fire.</abstract>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">zxx</languageTerm>
+   </language>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <shelfLocator>Local Call Number: Creek me</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <subject>
+      <topic>Creek Indians--Kings And Rulers</topic>
+   </subject>
+   <subject>
+      <topic>Creek Indians--Tribal government</topic>
+   </subject>
+   <subject>
+      <name>
+         <namePart>Biddle, E. C.</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name>
+         <namePart>Rice, Rutter and Company (Philadelphia, Penn.)</namePart>
+      </name>
+   </subject>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <title>Special Collections Online</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host" displayLabel="Collection">
+      <titleInfo>
+         <title>Prints Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <accessCondition type="use and reproduction">The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+   <recordInfo>
+      <recordIdentifier>record_spc_4703</recordIdentifier>
+      <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+   </recordInfo>
+</mods>
